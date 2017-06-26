@@ -7,6 +7,8 @@ Please feel free to contribute to this resource list.  To do so, either:
 * Put in a [Merge Request](https://github.com/mitalipalekar/tech-internship-resources/pulls) (preferred)
 * Send me an email at <mitali97@cs.washington.edu>
 
+**Note: While there may be an overlap with other tech internships like data science etc., this list is primarily focused on software engineering internships.**
+
 ## Resume Resources
 * *[How to Write Your First Resume](resume_uwcse.doc)*: Advice by the University of Washington Paul G. Allen School of Computing on best practices to attract industry recruiters
 * [Resume Tips](http://courses.washington.edu/envh482/Resumes.pdf): Presentation put together by the University of Washington's Career & Internship Center on best resume practices
