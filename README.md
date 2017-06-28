@@ -27,7 +27,7 @@ Please feel free to contribute to this resource list.  To do so, either:
 Hopefully by now, you have your own spreadsheet of different companies that you are thinking about applying to as well as their recruiter's name and contact info :)
 
 ## *Acing that Interview* Resources
-* [Cracking the Coding Interview](cracking-the-coding-interview.pdf): Linked is a PDF version, but I highly recommend buying your own copy of the book!
+* **Cracking the Coding Interview**: I highly recommend buying your own copy of the book!
 * [HackerRank](https://www.hackerrank.com/): Online Interview Practice
 * [LeetCode](https://leetcode.com/): Online Interview Practice
 * [Facebook CodeLabs](https://codelab.interviewbit.com/): Online Interview Practice
