@@ -23,6 +23,7 @@ Please feel free to contribute to this resource list.  To do so, either:
 * [Linkedin](https://www.linkedin.com/jobs/): Lots of job postings here as well as a great place to start cold calling recruiters
 * **Career Fairs**: Don't just hand your resume out, **make sure to get recruiters' contact info** so that you can follow up with them after the career fair as well as next year
 * [Indeed](https://www.indeed.com/): For Job Postings!
+*[Intershala](https://internshala.com/): Internships positions 
 
 Hopefully by now, you have your own spreadsheet of different companies that you are thinking about applying to as well as their recruiter's name and contact info :)
 
