@@ -19,10 +19,11 @@ Please feel free to contribute to this resource list.  To do so, either:
 * [Angel List](https://angel.co/): Start-ups are a great way to gain some footing in the tech industry as well as make a large impact within a smaller setting.
 
 ## *How to get an Interview* Resources
-* [Intern Supply](http://www.intern.supply/): Interview Preperation Resources as well as an up-to-date list of tech companies and their job postings - make sure to sign up for their newsletter too!
+* [Intern Supply](http://www.intern.supply/): Interview Preparation Resources as well as an up-to-date list of tech companies and their job postings - make sure to sign up for their newsletter too!
 * [Linkedin](https://www.linkedin.com/jobs/): Lots of job postings here as well as a great place to start cold calling recruiters
 * **Career Fairs**: Don't just hand your resume out, **make sure to get recruiters' contact info** so that you can follow up with them after the career fair as well as next year
 * [Indeed](https://www.indeed.com/): For Job Postings!
+* **Referrals**: Ask people you know who work at companies you are interested in to refer you! They don't have to be friends and you can leverage your school's alumni network to get a referral.
 
 Hopefully by now, you have your own spreadsheet of different companies that you are thinking about applying to as well as their recruiter's name and contact info :)
 
