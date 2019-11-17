@@ -19,6 +19,7 @@ Please feel free to contribute to this resource list.  To do so, either:
 * [Angel List](https://angel.co/): Start-ups are a great way to gain some footing in the tech industry as well as make a large impact within a smaller setting.
 
 ## *How to get an Interview* Resources
+* [Apply.fyi](https://www.apply.fyi): An updated list of Software Engineering Internships with useful information about each company (like salaries, categories, and descriptions)
 * [Intern Supply](http://www.intern.supply/): Interview Preparation Resources as well as an up-to-date list of tech companies and their job postings - make sure to sign up for their newsletter too!
 * [Linkedin](https://www.linkedin.com/jobs/): Lots of job postings here as well as a great place to start cold calling recruiters
 * **Career Fairs**: Don't just hand your resume out, **make sure to get recruiters' contact info** so that you can follow up with them after the career fair as well as next year
