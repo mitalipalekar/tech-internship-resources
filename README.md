@@ -39,6 +39,7 @@ Hopefully by now, you have your own spreadsheet of different companies that you 
 * [Glassdoor](https://www.glassdoor.com/index.htm): Look at previous interview questions from companies right before you interview with them!
 * [Big-O Cheatsheet](http://bigocheatsheet.com/): Super useful :)
 * [GeeksforGeeks](http://www.geeksforgeeks.org/): Great explanations for different algorithm questions.
+* [Scaler Topics](https://www.scaler.com/topics/): Good clarifications for various Programming Tutorials and data structures algorithms.
 
 ## Other Resources
 * [LSH Resources List](https://github.com/Ladies-Storm-Hackathons/Resources): Ladies Storm Hackathons is a diversity organization for women in tech.  This repository contains resources on interviewing, negotiating, attending hackthons and diversity focused student organizations.
