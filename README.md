@@ -20,6 +20,7 @@ Please feel free to contribute to this resource list.  To do so, either:
 
 ## *How to get an Interview* Resources
 * [Intern Supply](http://www.intern.supply/): Interview Preparation Resources as well as an up-to-date list of tech companies and their job postings - make sure to sign up for their newsletter too!
+* [Hanzilla Jobs](https://jobs.hanzilla.co/internships/): Daily-updated Canada-specific internship, co-op, new-grad, and junior-role listings for students/recent grads across software, data, engineering, business, finance, and sciences.
 * [Linkedin](https://www.linkedin.com/jobs/): Lots of job postings here as well as a great place to start cold calling recruiters
 * **Career Fairs**: Don't just hand your resume out, **make sure to get recruiters' contact info** so that you can follow up with them after the career fair as well as next year
 * [Indeed](https://www.indeed.com/): For Job Postings!
