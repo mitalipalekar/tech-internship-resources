@@ -12,6 +12,7 @@ Please feel free to contribute to this resource list.  To do so, either:
 ## Resume Resources
 * *[How to Write Your First Resume](resume_uwcse.doc)*: Advice by the University of Washington Paul G. Allen School of Computing on best practices to attract industry recruiters
 * [Resume Tips](http://courses.washington.edu/envh482/Resumes.pdf): Presentation put together by the University of Washington's Career & Internship Center on best resume practices
+* [JobEmerge](https://www.jobemerge.work): AI career copilot with a job-fit test, resume translation in 19 languages, and a Markdown resume editor.
 * [HH Websites & Resumes](https://www.facebook.com/groups/1487708811477672/): Great community for both peer reviewing of resumes (getting feedback on your own resume) as well as seeing sample resumes of other individuals within the tech industry
 
 ## Getting that Experience
